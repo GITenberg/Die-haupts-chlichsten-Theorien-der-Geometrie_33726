@@ -1,0 +1,33 @@
+_repo: Die-haupts-chlichsten-Theorien-der-Geometrie_33726
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Schütte, Fritz
+    alias: Schutte, Fritz
+    birthdate: 1864
+    gutenberg_agent_id: '36561'
+    url: http://www.gutenberg.org/2009/agents/36561
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loria, Gino
+    birthdate: 1862
+    deathdate: 1954
+    gutenberg_agent_id: '36560'
+    url: http://www.gutenberg.org/2009/agents/36560
+description: ''
+gutenberg_issued: '2010-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33726'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geometry -- History'
+- !lcc 'QA'
+title: Die hauptsächlichsten Theorien der Geometrie
+url: http://www.gutenberg.org/ebooks/33726
